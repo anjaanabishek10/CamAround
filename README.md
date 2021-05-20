@@ -8,10 +8,10 @@ List all active camera
 
 * sudo apt install git
 
-* python3 -m pip install requests
-
 * git clone https://github.com/anjaanabishek10/CamAround.git
 
 * cd CamAround
+
+* python3 -m pip install requests
 
 * python3 camaround.py
